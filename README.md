@@ -79,7 +79,7 @@ Write the code in ipynb, start by filtering out 2011-2014 of data, do some light
 
 
 
-# Prompts for claude code
+## dtl 2
 The Downtown Line Stage 2 connects the Bukit Panjang heartland to the city. Have
 prices increased for resale flats in the towns served by this Line? You might want to use a differencein-differences model for this task
 
