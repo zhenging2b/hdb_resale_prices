@@ -2,7 +2,7 @@
 Study of HDB prices in SG
 
 ## Data source
-Put all data sources in data folder. Used data sources include
+Create a `data` folder. Put all data sources in data folder. Used data sources include
 - Resale flat transactions (https://data.gov.sg/dataset/resale-flat-prices)
 - GeneralInformationOfSchools (https://data.gov.sg/datasets/d_688b934f82c1059ed0a6993d2a829089/view)
 - MasterPlan2025RailStationNameLayer(https://data.gov.sg/datasets/d_2c06c9fe8ae724b5d33efa1f203e2c38/view)
